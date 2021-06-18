@@ -30,13 +30,13 @@ experience:
     date_start: '2019-02-01'
     date_end: ''
     description: |2-
- * CE717: Machine Learning | Dr. A. Hosseini | Spring 2021
- * CE417: Artificial Intelligence | Dr. MH. Rohban | Spring 2021
- * CE323: Computer Architecture | Dr. H. Asadi | Spring 2021
- * CE126: Computer Structure and Language | Instructor: Prof. L. Arshadi | Fall 2020
- * CE212: Digital Design | Instructor: Prof. Sh. Hesabi | Fall 2020
- * CE126: Computer Structure and Language | Instructor: Prof. H. Asadi | Fall 2019
- * CE244: Advanced Programming | Instructor: Prof. B. Hatami | Spring 2019
+ * Machine Learning(CE717) | Dr. A. Hosseini | Spring 2021
+ * Artificial Intelligence (CE417)| Dr. MH. Rohban | Spring 2021
+ * Computer Architecture(CE323) | Dr. H. Asadi | Spring 2021
+ * Computer Structure and Language(CE126) | Prof. L. Arshadi | Fall 2020
+ * Digital Design (CE212) | Prof. Sh. Hesabi | Fall 2020
+ * Computer Structure and Language(CE126) | Prof. H. Asadi | Fall 2019
+ * Advanced Programming (CE244)| Instructor: Prof. B. Hatami | Spring 2019
         
 
 design:
