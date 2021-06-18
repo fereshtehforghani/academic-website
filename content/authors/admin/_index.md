@@ -67,7 +67,7 @@ highlight_name: false
 
 My name is Fereshteh Forghani and I am a senior B.Sc. student at Sharif University of Technology. My main interests are Machine Learning , Deep Learning, and their applications in Computer Vision and Medical Image Analysis. 
 
-I intend to widen my knowledge in these areas by learning more about their theoretical and mathematical side and by practical exploitation of these methods in real-life problems. My research goal is to introduce innovative approaches based on mathematical reasoning that solve practical problems in computer perception and motion.
-{{< icon name="envelope" pack="fas" >}}My Email is "fereshteh.forghani2012" at "gmail.com".
+I intend to widen my knowledge in these areas by learning more about their theoretical and mathematical side and by practical exploitation of these methods in real-life problems. My research goal is to introduce innovative approaches based on mathematical reasoning that solve practical problems in computer perception and motion. \n
+{{< icon name="envelope" pack="fas" >}}My Email is "fereshteh.forghani2012" at "gmail.com". \n
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
