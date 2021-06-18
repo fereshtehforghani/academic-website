@@ -38,7 +38,7 @@ experience:
     company_url: 'https://www.epfl.ch/labs/vita/'
     company_logo: org-x
     location: Lausanne, Switzerland
-    date_start: 2021-06-01'
+    date_start: '2021-06-01'
     date_end: ''
     description: I'm a remote intern under the supervision of Prof. Alexandre Alahi. This project is about human image synthesis/prediction using GANs.
     
