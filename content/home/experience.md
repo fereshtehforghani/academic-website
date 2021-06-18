@@ -21,15 +21,20 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:        
-  - title: "Research assistant"
-    company: "Image Processing Lab (IPL), Sharif University of Technology"
-    company_url: ''http://ipl.ce.sharif.edu/"
+experience:
+  - title: Research assistant
+    company: GenCoin
+    company_url: ''
     company_logo: org-gc
-    location: Tehran Iran
-    date_start: '2021-05-01'
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
-    description: |2-I'm doing my B.Sc Project under the supervision of Prof. Shohreh Kasaei at IPL. I am investigating Adversarial Attacks and Defenses against Deep Neural Networks (such as PoinNet), specifically focusing on using Web-Scale Nearest-Neighbor Search defenses.
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
         
   - title: Professor of Semiconductor Physics
     company: University X
