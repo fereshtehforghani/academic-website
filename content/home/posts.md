@@ -1,61 +1,44 @@
 ---
-# An instance of the Accomplishments widget.
+# An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: experience
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Teaching assistant'
+title: Teaching
 subtitle:
 
-# Date format
+# Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
-- certificate_url: 
-  date_end: ""
-  date_start: "2017-09-01"
-  description: ""
-  organization: 
-  organization_url: 
-  title: I got accepted to Sharif University of Technology for a B.Sc. in Computer Engineering.
-  url: ""
-- certificate_url: 
-  date_end: ""
-  date_start: "2020-10-01"
-  description: 
-  organization: 
-  organization_url: 
-  title: I started working at the Medical Imaging research group under the supervision of Prof. Mohammad Hossein Rohban.
-  url: 
-- certificate_url: 
-  date_end: ""
-  date_start: "2021-03-01"
-  description: ""
-  organization: 
-  organization_url:
-  title: I got accepted as a remote intern to Visual Intelligence for Transportation (VITA) Lab under supervision of Prof. Alexandre Alahi.
-  url: ""
-- certificate_url: 
-  date_end: ""
-  date_start: "2021-05-01"
-  description: ""
-  organization: 
-  organization_url:
-  title: I started my B.Sc project at Image Processing Lab (IPL) under supervision of Prof. Shohreh Kasaei.
-  url: ""
+experience:
+  - title: Teaching assistant
+    company: Sharif University of technology
+    company_url: 'http://ce.sharif.edu/'
+    company_logo: 
+    location: Tehran, Iran
+    date_start: '2019-02-01'
+    date_end: ''
+    description: |2-
+ * CE717: Machine Learning | Dr. A. Hosseini | Spring 2021
+ * CE417: Artificial Intelligence | Dr. MH. Rohban | Spring 2021
+ * CE323: Computer Architecture | Dr. H. Asadi | Spring 2021
+ * CE126: Computer Structure and Language | Instructor: Prof. L. Arshadi | Fall 2020
+ * CE212: Digital Design | Instructor: Prof. Sh. Hesabi | Fall 2020
+ * CE126: Computer Structure and Language | Instructor: Prof. H. Asadi | Fall 2019
+ * CE244: Advanced Programming | Instructor: Prof. B. Hatami | Spring 2019
+        
 
 design:
-  columns: '2' 
+  columns: '2'
 ---
