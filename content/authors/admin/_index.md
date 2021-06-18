@@ -43,7 +43,7 @@ social:
   #link: 'fereshteh.forghani2012@gmail.com'
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   #icon_pack: fas
-  l#ink: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/fforghani
