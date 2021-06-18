@@ -38,18 +38,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-#- icon: envelope
-  #icon_pack: fas
-  #link: 'fereshteh.forghani2012@gmail.com'
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #icon_pack: fas
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: envelope
+  icon_pack: fas
+  link: 'fereshteh.forghani2012@gmail.com'
 - icon: github
   icon_pack: fab
   link: https://github.com/fforghani
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/fereshteh-forghani-aa76b8173
+  #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #icon_pack: fas
+  #link: 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
