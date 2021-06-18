@@ -69,4 +69,4 @@ My name is Fereshteh Forghani and I am a senior B.Sc. student at Sharif Universi
 
 I intend to widen my knowledge in these areas by learning more about their theoretical and mathematical side and by practical exploitation of these methods in real-life problems. My research goal is to introduce innovative approaches based on mathematical reasoning that solve practical problems in computer perception and motion.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
