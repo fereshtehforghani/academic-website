@@ -8,6 +8,8 @@ superuser: true
 # Role/position/tagline
 role: B.Sc. Student
 
+email:"fereshteh.forghani at gmail.com"
+
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Sharif University of Technology
@@ -40,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:fereshteh.forghani2012@gmail.com'
+  link: 'fereshteh.forghani2012@gmail.com'
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   #icon_pack: fas
   l#ink: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
