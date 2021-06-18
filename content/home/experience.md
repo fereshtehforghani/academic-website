@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -35,6 +35,15 @@ experience:
         * Analysing
         * Modelling
         * Deploying
+        
+  - title: Research Assistant 
+    company: Image Processing Lab (IPL), Sharif University of Technology
+    company_url: ''http://ipl.ce.sharif.edu/"
+    company_logo: org-gc
+    location: Tehran Iran
+    date_start: '2021-05-01'
+    date_end: ''
+    description: |2-I'm doing my B.Sc Project under the supervision of Prof. Shohreh Kasaei at IPL. I am investigating Adversarial Attacks and Defenses against Deep Neural Networks (such as PoinNet), specifically focusing on using Web-Scale Nearest-Neighbor Search defenses.
         
   - title: Professor of Semiconductor Physics
     company: University X
