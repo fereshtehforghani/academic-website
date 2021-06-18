@@ -1,15 +1,26 @@
-<svg width="56" height="56" xmlns="http://www.w3.org/2000/svg">
- <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
- <g>
-  <title>background</title>
-  <rect fill="#fff" id="canvas_background" height="58" width="58" y="-1" x="-1"/>
-  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
-   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
-  </g>
- </g>
- <g>
-  <title>Layer 1</title>
-  <path stroke="#000" id="svg_2" d="m0.5,28l11.78572,-23.57143l31.42857,0l11.78571,23.57143l-11.78571,23.57143l-31.42857,0l-11.78572,-23.57143z" stroke-width="2" fill="#fff"/>
-  <text transform="matrix(1,0,0,1,0,0) " style="cursor: text;" font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Montserrat Black'" font-size="30" id="svg_1" y="38.75" x="16.57031" stroke-width="0" stroke="#000" fill="#000000">X</text>
- </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="2542.000000pt" height="1101.000000pt" viewBox="0 0 2542.000000 1101.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,1101.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M2550 7260 l0 -1200 640 0 640 0 0 -550 0 -550 -640 0 -640 0 0
+-1200 0 -1200 2135 0 2135 0 0 545 0 545 -1495 0 -1495 0 0 655 0 655 1368 2
+1367 3 0 545 0 545 -1367 3 -1368 2 0 655 0 655 1495 0 1495 0 0 545 0 545
+-2135 0 -2135 0 0 -1200z"/>
+<path d="M7920 5510 l0 -2950 635 0 635 0 0 1199 0 1199 808 5 c683 3 828 7
+942 21 176 22 349 59 480 102 124 41 375 162 475 229 415 280 648 702 695
+1262 26 305 -39 664 -171 940 -115 242 -341 485 -589 635 -233 140 -485 229
+-797 280 -138 22 -139 22 -1625 25 l-1488 4 0 -2951z m2685 1841 c506 -65 752
+-293 732 -677 -10 -173 -57 -276 -176 -385 -78 -72 -206 -138 -326 -168 -200
+-52 -227 -53 -957 -58 l-688 -4 0 656 0 657 663 -5 c416 -3 695 -9 752 -16z"/>
+<path d="M13410 7260 l0 -1200 635 0 635 0 0 -550 0 -550 -635 0 -635 0 0
+-1200 0 -1200 635 0 635 0 0 1200 0 1200 1370 0 1370 0 0 550 0 550 -1370 0
+-1370 0 0 655 0 655 1500 0 1500 0 0 545 0 545 -2135 0 -2135 0 0 -1200z"/>
+<path d="M18600 5510 l0 -2950 2135 0 2135 0 0 545 0 545 -1500 0 -1500 0 0
+2405 0 2405 -635 0 -635 0 0 -2950z"/>
+</g>
 </svg>
