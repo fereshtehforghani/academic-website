@@ -8,8 +8,6 @@ superuser: true
 # Role/position/tagline
 role: B.Sc. Student
 
-email:"fereshteh.forghani at gmail.com"
-
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Sharif University of Technology
@@ -40,9 +38,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'fereshteh.forghani2012@gmail.com'
+#- icon: envelope
+  #icon_pack: fas
+  #link: 'fereshteh.forghani2012@gmail.com'
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   #icon_pack: fas
   l#ink: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -70,5 +68,6 @@ highlight_name: false
 My name is Fereshteh Forghani and I am a senior B.Sc. student at Sharif University of Technology. My main interests are Machine Learning , Deep Learning, and their applications in Computer Vision and Medical Image Analysis. 
 
 I intend to widen my knowledge in these areas by learning more about their theoretical and mathematical side and by practical exploitation of these methods in real-life problems. My research goal is to introduce innovative approaches based on mathematical reasoning that solve practical problems in computer perception and motion.
-
+{{< icon name="envelope" pack="fas" >}}My Email is {{< a href = "mailto: fereshteh.forghani2012@gmail.com">}}"fereshteh.forghani2012" at "gmail.com" {{< /a >}}.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+
