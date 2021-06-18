@@ -50,7 +50,17 @@ experience:
     date_start: '2020-10-01'
     date_end: '2021-06-01'
     description: I was a research assistant under the supervision of Prof. Mohammad Hossein Rohban. The aim of the project was to use a contrastive representation learning method to train our network with unlabeled data and improve IoU score after fine-tuning with labeled data.
-
+    
+  - title: Intern
+    company: Sinaweb company
+    company_url: 'https://sinaweb.net'
+    company_logo: sinaweb
+    location: Tehran, Iran
+    date_start: '2020-07-01'
+    date_end: '2021-10-01'
+    description: I worked on methods for intrinsic plagiarism detection using machine learning.
+The aim of this project was to develop a plagiarism detection method. This method is
+using variations in writing style to identify potentially plagiarized passages.
 design:
   columns: '2'
 ---
