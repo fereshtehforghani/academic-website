@@ -29,9 +29,12 @@ education:
   - course: BSc in Computer Engineering (GPA: 18.41/20)
     institution: Sharif University of Technology
     year: 2017-2022
-  - course: Diploma in Mathematics and Physics(GPA: 19.90/20)
-    institution: National Organization for Development of Exceptional Talents (NODET),Farzanegan High School
-    year: 2013-2017
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008  
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
