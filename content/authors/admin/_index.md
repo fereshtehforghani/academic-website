@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fereshteh Forghanin
+title: Fereshteh Forghani
 
 # Is this the primary user of the site?
 superuser: true
