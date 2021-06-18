@@ -22,9 +22,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:        
-  - title: 'Research assistant'
-    company: 'Image Processing Lab (IPL), Sharif University of Technology'
-    company_url: ''http://ipl.ce.sharif.edu/'
+  - title: "Research assistant"
+    company: "Image Processing Lab (IPL), Sharif University of Technology"
+    company_url: ''http://ipl.ce.sharif.edu/"
     company_logo: org-gc
     location: Tehran Iran
     date_start: '2021-05-01'
