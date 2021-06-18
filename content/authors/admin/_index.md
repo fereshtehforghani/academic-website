@@ -29,7 +29,7 @@ education:
   - course: BSc in Computer Engineering (GPA = 18.41/20)
     institution: Sharif University of Technology
     year: 2017-2022
-  - course: Diploma in Mathematics and Physics(GPA = 19.90/20)
+  - course: Diploma in Mathematics and Physics (GPA = 19.90/20)
     institution: National Organization for Development of Exceptional Talents (NODET),Farzanegan High School
     year: 2013-2017
 
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:fereshteh.forghani2012@gmail.com'
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   #icon_pack: fas
   l#ink: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
