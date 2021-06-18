@@ -40,12 +40,20 @@ item:
   title: I started working at the Medical Imaging research group under the supervision of Prof. Mohammad Hossein Rohban.
   url: 
 - certificate_url: 
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_end: ""
+  date_start: "2021-03-01"
   description: ""
   organization: 
   organization_url:
   title: I got accepted as a remote intern to Visual Intelligence for Transportation (VITA) Lab under supervision of Prof. Alexandre Alahi.
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-05-01"
+  description: ""
+  organization: 
+  organization_url:
+  title: I started my B.Sc project at Image Processing Lab (IPL) under supervision of Prof. Shohreh Kasaei.
   url: ""
 
 design:
