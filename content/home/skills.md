@@ -1,50 +1,56 @@
 ---
-# An instance of the Featurette widget.
+# An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
+widget: experience
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
-title: Skills
+title: Research Experience
 subtitle:
 
-# Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-- description: 100%
-  icon: python
-  icon_pack: fab
-  name: Python
-- description: 100%
-  icon: cuttlefish
-  icon_pack: fab
-  name: C
-- description: 100%
-  icon: java
-  icon_pack: fab
-  name: Java
-- description: 85%
-  icon: html5
-  icon_pack: fab
-  name: HTML, CSS
+# Date format for experience
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+experience:
+  - title: Research assistant
+    company: Image Processing Lab (IPL), Sharif University of technology
+    company_url: 'http://ipl.ce.sharif.edu/'
+    company_logo: org-gc
+    location: Tehran, Iran
+    date_start: '2021-05-01'
+    date_end: ''
+    description: |2-
+        I'm doing my B.Sc Project under the supervision of Prof. Shohreh Kasaei at IPL.
+        I am investigating Adversarial Attacks and Defenses against Deep Neural Networks (such as PoinNet), specifically focusing on using Web-Scale Nearest-Neighbor Search defenses.
+        
+  - title: Remote Summer Intern
+    company: Visual Intelligence for Transportation (VITA) Lab, École Polytechnique Fédérale de Lausanne (EPFL)
+    company_url: 'https://www.epfl.ch/labs/vita/'
+    company_logo: org-x
+    location: Lausanne, Switzerland
+    date_start: '2021-06-01'
+    date_end: ''
+    description: I'm a remote intern under the supervision of Prof. Alexandre Alahi. This project is about human image synthesis/prediction using GANs.
+    
+  - title: Research assistant
+    company: Medical Imaging Lab, Sharif University of technology
+    company_url: ''
+    company_logo: org-gc
+    location: Tehran, Iran
+    date_start: '2020-10-01'
+    date_end: '2021-06-01'
+    description: I was a research assistant under the supervision of Prof. Mohammad Hossein Rohban. The aim of the project was to use a contrastive representation learning method to train our network with unlabeled data and improve IoU score after fine-tuning with labeled data.
 
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+design:
+  columns: '2'
 ---
