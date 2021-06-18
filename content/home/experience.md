@@ -24,17 +24,14 @@ date_format: Jan 2006
 experience:
   - title: Research assistant
     company: Image Processing Lab (IPL), Sharif University of technology
-    company_url: ''
+    company_url: 'http://ipl.ce.sharif.edu/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Tehran, Iran
+    date_start: '2021-05-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        I'm doing my B.Sc Project under the supervision of Prof. Shohreh Kasaei at IPL.
+        I am investigating Adversarial Attacks and Defenses against Deep Neural Networks (such as PoinNet), specifically focusing on using Web-Scale Nearest-Neighbor Search defenses.
         
   - title: Professor of Semiconductor Physics
     company: University X
