@@ -26,10 +26,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Computer Engineering (GPA: 18.41/20)
+  - course: BSc in Computer Engineering
     institution: Sharif University of Technology
     year: 2017-2022
-  - course: Diploma in Mathematics and Physics(GPA: 19.90/20)
+  - course: Diploma in Mathematics and Physics
     institution: National Organization for Development of Exceptional Talents (NODET),Farzanegan High School
     year: 2013-2017
 
