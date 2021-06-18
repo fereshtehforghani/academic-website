@@ -25,6 +25,7 @@ interests:
 
 # Education to show in About widget
 education:
+  courses:
   - course: BSc in Computer Engineering
     institution: Sharif University of Technology
     year: 2017-2022
