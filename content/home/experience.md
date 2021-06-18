@@ -42,14 +42,14 @@ experience:
     date_end: ''
     description: I'm a remote intern under the supervision of Prof. Alexandre Alahi. This project is about human image synthesis/prediction using GANs.
     
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant
+    company: Medical Imaging Lab, Sharif University of technology
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-gc
+    location: Tehran, Iran
+    date_start: '2020-10-01'
+    date_end: '2021-06-0.1'
+    description: I was a research assistant under the supervision of Prof. Mohammad Hossein Rohban. The aim of the project was to use a contrastive representation learning method to train our network with unlabeled data and improve IoU score after fine-tuning with labeled data.
 
 design:
   columns: '2'
