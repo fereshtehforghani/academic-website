@@ -38,17 +38,7 @@ experience:
     location: , Lausanne, Switzerland
     date_start: '2021-06-01'
     date_end: ''
-    description: |2-I'm a remote intern under the supervision of Prof. Alexandre Alahi. This project is about human image synthesis/prediction using GANs.
-    
-    - title: Research Assistant
-    	company: Medical Imaging Lab, Sharif University of Technology
-    	company_url: ''
-    	company_logo: org-gc
-    	location: Tehran, Iran
-    	date_start: '2020-10-01'
-    	date_end: '2021-06-0.1'
-    	description: |2-I was a research assistant under the supervision of Prof. Mohammad Hossein Rohban. The aim of the project was to use a contrastive representation learning method to train our network with unlabeled data and improve IoU score after fine-tuning with labeled data.
-        
+    description: |2-I'm a remote intern under the supervision of Prof. Alexandre Alahi. This project is about human image synthesis/prediction using GANs.        
 design:
   columns: '2'
 ---
