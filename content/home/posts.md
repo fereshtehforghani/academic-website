@@ -30,7 +30,6 @@ experience:
     date_start: '2019-02-01'
     date_end: '2021-06-01'
     description: |2-
-            Responsibilities include:
         
         * Machine Learning(CE717) | Dr. A. Hosseini | Spring 2021
         * Artificial Intelligence (CE417)| Dr. MH. Rohban | Spring 2021
