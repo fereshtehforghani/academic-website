@@ -28,17 +28,17 @@ experience:
     company_logo: 
     location: Tehran, Iran
     date_start: '2019-02-01'
-    date_end: ''
+    date_end: '2021-06-01'
     description: |2-
- 	* Machine Learning(CE717) | Dr. A. Hosseini | Spring 2021
-	* Artificial Intelligence (CE417)| Dr. MH. Rohban | Spring 2021
- 	* Computer Architecture(CE323) | Dr. H. Asadi | Spring 2021
- 	* Computer Structure and Language(CE126) | Prof. L. Arshadi | Fall 2020
- 	* Digital Design (CE212) | Prof. Sh. Hesabi | Fall 2020
-	* Computer Structure and Language(CE126) | Prof. H. Asadi | Fall 2019
-	* Advanced Programming (CE244)| Instructor: Prof. B. Hatami | Spring 2019
+            Responsibilities include:
         
-
+        * Machine Learning(CE717) | Dr. A. Hosseini | Spring 2021
+        * Artificial Intelligence (CE417)| Dr. MH. Rohban | Spring 2021
+        * Computer Architecture(CE323) | Dr. H. Asadi | Spring 2021
+        * Computer Structure and Language(CE126) | Prof. L. Arshadi | Fall 2020
+        * Digital Design (CE212) | Prof. Sh. Hesabi | Fall 2020
+        * Computer Structure and Language(CE126) | Prof. H. Asadi | Fall 2019
+        * Advanced Programming (CE244)| Instructor: Prof. B. Hatami | Spring 2019
 design:
   columns: '2'
 ---
