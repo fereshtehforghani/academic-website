@@ -7,18 +7,21 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  # - name: Research Experince
-  #   url: '#experince'
-  #   weight: 20
   - name: News
     url: '#accomplishments'
-    weight: 40
+    weight: 20
   - name: Research
     url: '#experience'
     weight: 30
   # - name: Publications
   #   url: '#featured'
   #   weight: 50
+  - name: Teaching
+    url: '#posts'
+    weight: 40
+  - name: Skills
+    url: '#skills'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
