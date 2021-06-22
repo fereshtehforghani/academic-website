@@ -30,8 +30,7 @@ experience:
     date_start: '2021-05-01'
     date_end: ''
     description: |2-
-        I'm doing my B.Sc Project under the supervision of Prof. Shohreh Kasaei at IPL.
-        I am investigating Adversarial Attacks and Defenses against Deep Neural Networks (such as PoinNet), specifically focusing on using Web-Scale Nearest-Neighbor Search defenses.
+        I'm doing my B.Sc Project in the Image Processing Lab (IPL) at Sharif University under the supervision of Prof. Shohreh Kasaei. I am investigating Adversarial Attack and Defense against PoinNet, specifically focusing on using Web-Scale Nearest-Neighbor Search defenses.
         
   - title: Remote Summer Intern
     company: Visual Intelligence for Transportation (VITA) Lab, École Polytechnique Fédérale de Lausanne (EPFL)
@@ -49,7 +48,7 @@ experience:
     location: Tehran, Iran
     date_start: '2020-10-01'
     date_end: '2021-06-01'
-    description: I was a research assistant under the supervision of Prof. Mohammad Hossein Rohban. The aim of the project was to use a contrastive representation learning method to train our network with unlabeled data and improve IoU score after fine-tuning with labeled data.
+    description: I was a research assistant in the Medical Image Analysis Lab at Sharif University under the supervision of Professor Mohammad Hossein Rohban. I worked on contrastive representation learning methods in cell segmentation task. We implemented different frameworks such as SimCLR and MoCo, to train a U-Net with unlabeled cell images and improve IoU score after fine-tuning with labeled ones.
     
   - title: Intern
     company: Sinaweb company
