@@ -4,11 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 backend:
   name: github
-  repo: fforghani/fforghani.github.io
+  repo: fforghani/academic-website.github.io
   branch: master
-  site_domain: ferestehforghani.netlify.com
+  site_domain: fereshtehforghani.netlify.com
 
-title: Feresteh Forghani # Website name
+title: Fereshteh Forghani # Website name
 baseurl: '' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
