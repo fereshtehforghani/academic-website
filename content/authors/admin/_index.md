@@ -18,15 +18,16 @@ bio: ""
 
 # Interests to show in About widget
 interests:
-- Computer vision
-- Deep Learning
 - Machine Learning
+- Deep Learning
+- Computer vision
 - Medical Image Analysis
+- Artificial Intelligence
 
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Computer Engineering (GPA = 18.41/20)
+  - course: BSc in Computer Engineering (GPA = 18.53/20)
     institution: Sharif University of Technology
     year: 2017-2022
   - course: Diploma in Mathematics and Physics (GPA = 19.90/20)
