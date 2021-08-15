@@ -20,22 +20,18 @@ feature:
   icon: brain
   icon_pack: fas
   name: Vision/ML Libraries
-- description: 
+- description: C/C++, Python, Java
   icon: laptop-code 
   icon_pack: fas
-  name: Python
-- description: C, C++  
-  icon: cuttlefish
-  icon_pack: fab
-  name: C
-- description:
-  icon: java
-  icon_pack: fab
-  name: Java
-- description: 
+  name: Programming
+- description: Pandas, SQL
+  icon: database 
+  icon_pack: fas
+  name: Data Manipulation
+- description: Django, HTML, CSS, JS, Android, Swift
   icon: html5
   icon_pack: fab
-  name: HTML, CSS
+  name: Web and Mobile app Development
 
 
 # Uncomment to use emoji icons.
