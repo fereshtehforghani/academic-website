@@ -20,7 +20,7 @@ feature:
   icon: python 
   icon_pack: fab
   name: Python
-- description: C, C++ \ 100%
+- description: |2- C, C++ \ 100%
   icon: cuttlefish
   icon_pack: fab
   name: C
