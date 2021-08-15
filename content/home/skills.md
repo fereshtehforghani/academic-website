@@ -17,19 +17,22 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: TensorFlow, PyTorch, Numpy, Pandas, Scikit-Learn, NLTK
-  icon: python 
-  icon_pack: fab
+  icon: brain
+  icon_pack: fas
+  name: Vision/ML Libraries
+- description: 
+  icon: laptop-code 
+  icon_pack: fas
   name: Python
 - description: C, C++  
-100%
   icon: cuttlefish
   icon_pack: fab
   name: C
-- description: 100%
+- description:
   icon: java
   icon_pack: fab
   name: Java
-- description: 85%
+- description: 
   icon: html5
   icon_pack: fab
   name: HTML, CSS
