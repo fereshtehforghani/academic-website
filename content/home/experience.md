@@ -30,7 +30,7 @@ experience:
     date_start: '2021-05-01'
     date_end: ''
     description: |2-
-        I'm doing my B.Sc Project in the Image Processing Lab (IPL) at Sharif University under the supervision of Prof. Shohreh Kasaei. I am investigating Adversarial Attack and Defense against PoinNet, specifically focusing on using Web-Scale Nearest-Neighbor Search defenses.
+        I'm doing my B.Sc Project in the Image Processing Lab (IPL) at Sharif University under the supervision of Prof. Shohreh Kasaei. I am investigating Adversarial attacks against Deep Neural Networks, specifically focusing on 3D pointCloud networks (PointNet and PointNet++).
         
   - title: Remote Summer Intern
     company: Visual Intelligence for Transportation (VITA) Lab, École Polytechnique Fédérale de Lausanne (EPFL)
@@ -39,7 +39,7 @@ experience:
     location: Lausanne, Switzerland
     date_start: '2021-06-01'
     date_end: ''
-    description: I'm a remote intern under the supervision of Prof. Alexandre Alahi. This project is about Realistic adversarial attacks on human trajectory predictors.
+    description: I'm a remote intern under the supervision of Prof. Alexandre Alahi. This project aim to find natural adversarial examples to test the reliability of human trajectory predictors using density estimation techniques such as [Masked autoregressive flow](https://arxiv.org/abs/1705.07057), [RealNVP](https://arxiv.org/abs/1605.08803) and [Masked autoencoder for distribution estimation](https://arxiv.org/abs/1502.03509).
     
   - title: Research assistant
     company: Medical Imaging Lab, Sharif University of technology
