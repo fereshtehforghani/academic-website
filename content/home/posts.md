@@ -31,7 +31,7 @@ experience:
     date_end: '2021-06-01'
     description: |2-
         
-        * Machine Learning(graduate course)(CE717) | Dr. A. Hosseini | Spring 2021
+        * Machine Learning (graduate course)(CE717) | Dr. A. Hosseini | Spring 2021 & Fall 2021
         * Artificial Intelligence (CE417)| Dr. MH. Rohban | Spring 2021
         * Computer Architecture(CE323) | Dr. H. Asadi | Spring 2021
         * Computer Structure and Language(CE126) | Prof. L. Arshadi | Fall 2020
