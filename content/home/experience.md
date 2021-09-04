@@ -21,17 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: Research assistant
-    company: Image Processing Lab (IPL), Sharif University of technology
-    company_url: 'http://ipl.ce.sharif.edu/'
-    company_logo: org-gc
-    location: Tehran, Iran
-    date_start: '2021-05-01'
-    date_end: ''
-    description: |2-
-        I'm doing my B.Sc Project in the Image Processing Lab (IPL) at Sharif University under the supervision of Prof. Shohreh Kasaei. I am investigating Adversarial attacks against Deep Neural Networks, specifically focusing on 3D pointCloud networks (PointNet and PointNet++).
-        
+experience:      
   - title: Remote Summer Intern
     company: Visual Intelligence for Transportation (VITA) Lab, École Polytechnique Fédérale de Lausanne (EPFL)
     company_url: 'https://www.epfl.ch/labs/vita/'
@@ -58,6 +48,16 @@ experience:
     date_start: '2020-07-01'
     date_end: '2021-10-01'
     description: I worked on ML based forgery recognition through handwriting style recognition. The aim of this project was to develop a plagiarism detection method which uses variations in writing style to identify potentially plagiarized passages.
+  
+  - title: Research assistant
+    company: Image Processing Lab (IPL), Sharif University of technology
+    company_url: 'http://ipl.ce.sharif.edu/'
+    company_logo: org-gc
+    location: Tehran, Iran
+    date_start: '2021-05-01'
+    date_end: '2021-09-01'
+    description: |2-
+        I'm working as a scientific collaborator in the Image Processing Lab (IPL) at Sharif University under the supervision of Prof. Shohreh Kasaei. I am investigating Adversarial attacks against Deep Neural Networks, specifically focusing on 3D pointCloud networks (PointNet and PointNet++).
 design:
   columns: '2'
 ---

@@ -53,7 +53,7 @@ item:
   description: ""
   organization: 
   organization_url:
-  title: I started my B.Sc project at Image Processing Lab (IPL) under supervision of Prof. Shohreh Kasaei.
+  title: I started as a scientific collaborator at Image Processing Lab (IPL) under supervision of Prof. Shohreh Kasaei.
   url: ""
 
 design:
