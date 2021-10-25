@@ -20,8 +20,10 @@ bio: ""
 interests:
 - Machine Learning
 - Deep Learning
-- Computer vision
+- Computer Vision
+- Natural Language Processing
 - Medical Image Analysis
+- ML applications in Health
 - Artificial Intelligence
 
 # Education to show in About widget
