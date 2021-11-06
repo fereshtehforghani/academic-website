@@ -1,12 +1,13 @@
 ---
-title: "Realistic Adversarial Attack onHuman Trajectory Predictors"
+title: "An example conference paper"
 authors:
--
+- admin
+- Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-06-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,10 +16,10 @@ publishDate: "2021-06-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: In *Source Themes Conference*
+publication_short: In *STC*
 
-abstract: This project aim to find natural adversarial examples to test the reliability of human trajectory predictors using density estimation techniques. First, we conducted a litrature review on density estimation techniques, such as [Masked autoregressive flow](https://arxiv.org/abs/1705.07057), [RealNVP](https://arxiv.org/abs/1605.08803) and [Masked autoencoder for distribution estimation](https://arxiv.org/abs/1502.03509). We proceed by using Masked autoregressive flow(MAF) to find natural adversarial examples to test the reliability of human trajectory predictors. Subsequently, we adversarially trained LSTM based predictors and reduced the collision rate up to **35%** in the case of adversarial attack on test data.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
