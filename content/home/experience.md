@@ -23,22 +23,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:      
   - title: Remote Summer Intern
-    company: Visual Intelligence for Transportation (VITA) Lab, École Polytechnique Fédérale de Lausanne (EPFL)
+    company: Advised by Prof. Alexandre Alahi, Visual Intelligence for Transportation (VITA) Lab, École Polytechnique Fédérale de Lausanne (EPFL)
     company_url: 'https://www.epfl.ch/labs/vita/'
     company_logo: org-x
     location: Lausanne, Switzerland
     date_start: '2021-06-01'
     date_end: ''
-    description: I'm a remote intern under the supervision of Prof. Alexandre Alahi. This project aim to find natural adversarial examples to test the reliability of human trajectory predictors using density estimation techniques such as [Masked autoregressive flow](https://arxiv.org/abs/1705.07057), [RealNVP](https://arxiv.org/abs/1605.08803) and [Masked autoencoder for distribution estimation](https://arxiv.org/abs/1502.03509).
+    description: This project aim to find natural adversarial examples to test the reliability of human trajectory predictors using density estimation techniques. First, we conducted a litrature review on density estimation techniques, such as [Masked autoregressive flow](https://arxiv.org/abs/1705.07057), [RealNVP](https://arxiv.org/abs/1605.08803) and [Masked autoencoder for distribution estimation](https://arxiv.org/abs/1502.03509). We proceed by using Masked autoregressive flow(MAF) to find natural adversarial examples to test the reliability of human trajectory predictors. Subsequently, we adversarially trained LSTM based predictors and reduced the collision rate up to **35%** in the case of adversarial attack on test data.
     
   - title: Research assistant
-    company: Medical Imaging Lab, Sharif University of technology
+    company: Advised by Dr. Mohammad Hossein Rohban, Medical Imaging Lab, Sharif University of technology
     company_url: ''
     company_logo: org-gc
     location: Tehran, Iran
     date_start: '2020-10-01'
     date_end: '2021-06-01'
-    description: I was a research assistant in the Medical Image Analysis Lab at Sharif University under the supervision of Professor Mohammad Hossein Rohban. I worked on contrastive representation learning methods in cell segmentation task. We implemented different frameworks such as SimCLR and MoCo, to train a U-Net with unlabeled cell images and improve IoU score after fine-tuning with labeled ones.
+    description: In medical analysis, supervised and labeled data is used in many cases. However, labeling medical images is extremely difficult, expensive, and time-consuming. In this project, we propose using genralized self-supervised frameworks to extract features from unlabeled images. We pre-trained a U-net encoder with SimCLR, MoCo, and SimSiam. We managed to improved IoU score after fine-tuning with annotated ones **up to 6%**.
     
   - title: Intern
     company: Sinaweb company
@@ -47,7 +47,7 @@ experience:
     location: Tehran, Iran
     date_start: '2020-07-01'
     date_end: '2021-10-01'
-    description: I worked on ML based forgery recognition through handwriting style recognition. The aim of this project was to develop a plagiarism detection method which uses variations in writing style to identify potentially plagiarized passages.
+    description: I worked on ML based forgery recognition through handwriting style recognition. The aim of this project was to develop a plagiarism detection method which uses variations in writing style to identify potentially plagiarized passages. We extracted lexical, structural, and syntax features, proposed a regression model to fuse features and predict writing style, and finally, implemented an outlier detection model to find possible plagiarised segments.
   
   - title: Research assistant
     company: Image Processing Lab (IPL), Sharif University of technology
