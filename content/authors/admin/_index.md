@@ -22,6 +22,7 @@ interests:
 - Deep Learning
 - Computer Vision
 - Medical Image Analysis
+- Autonomous Driving
 - Artificial Intelligence
 
 # Education to show in About widget
@@ -60,7 +61,7 @@ social:
   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "fereshteh.forghani@gmail.com"
+email: "fereshteh.forghani2012@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
