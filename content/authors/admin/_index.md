@@ -29,7 +29,7 @@ education:
   courses:
   - course: MSc in Computer Science 
     institution: York University
-    year: 2017-2022
+    year: 2022-present
   - course: BSc in Computer Engineering (GPA = 18.53/20)
     institution: Sharif University of Technology
     year: 2017-2022
