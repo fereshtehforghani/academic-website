@@ -49,13 +49,22 @@ item:
   url: ""
 - certificate_url: 
   date_end: ""
-  date_start: "2021-05-01"
+  date_start: "2022-03-01"
   description: ""
   organization: 
   organization_url:
-  title: I started as a scientific collaborator at Image Processing Lab (IPL) under supervision of Prof. Shohreh Kasaei.
+  title: I got admitted to some of the top and highly competetive universities in the world - Univesity of Southern Caliofornia (PhD in ECE), University of California Irvine (PhD in CS), University of British Columbia (MSc in BME) and York University (MSc in CS).
+  url: ""
+
+- certificate_url: 
+  date_end: ""
+  date_start: "2022-09-01"
+  description: ""
+  organization: York University, Vector Institute
+  organization_url: https://cvil.eecs.yorku.ca/
+  title: I will be joining the the Computational Vision and Imaging Lab at York University (CVIL@York) and Vector institute.
   url: ""
 
 design:
-  columns: '2' 
+  columns: '1' 
 ---
