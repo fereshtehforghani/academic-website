@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience: 
-- title: Research Assistant
+  - title: Research Assistant
     company: Computational Vision and Imaging Lab at York University (CVIL@York)
     company_url: 'https://cvil.eecs.yorku.ca/'
     company_logo: org-m
