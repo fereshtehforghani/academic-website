@@ -21,19 +21,28 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:      
+experience: 
+- title: Research Assistant
+    company: Computational Vision and Imaging Lab at York University (CVIL@York)
+    company_url: 'https://cvil.eecs.yorku.ca/'
+    company_logo: org-m
+    location: Toronto, Canada
+    date_start: '2022-06-01'
+    date_end: ''
+    description: ''  
+     
   - title: Remote Summer Intern
-    company: Advised by Prof. Alexandre Alahi, Visual Intelligence for Transportation (VITA) Lab, École Polytechnique Fédérale de Lausanne (EPFL)
+    company: Visual Intelligence for Transportation (VITA) Lab, École Polytechnique Fédérale de Lausanne (EPFL)
     company_url: 'https://www.epfl.ch/labs/vita/'
     company_logo: org-x
     location: Lausanne, Switzerland
     date_start: '2021-06-01'
-    date_end: ''
+    date_end: '2021-12-31'
     description: This project aim to find natural adversarial examples to test the reliability of human trajectory predictors using density estimation techniques. First, we conducted a litrature review on density estimation techniques, such as [Masked autoregressive flow](https://arxiv.org/abs/1705.07057), [RealNVP](https://arxiv.org/abs/1605.08803) and [Masked autoencoder for distribution estimation](https://arxiv.org/abs/1502.03509). We proceed by using Masked autoregressive flow(MAF) to find natural adversarial examples to test the reliability of human trajectory predictors. Subsequently, we adversarially trained LSTM based predictors and reduced the collision rate up to **35%** in the case of adversarial attack on test data.
     
-  - title: Research assistant
-    company: Advised by Dr. Mohammad Hossein Rohban, Medical Imaging Lab, Sharif University of technology
-    company_url: ''
+  - title: Research Assistant
+    company: Medical Imaging Lab, Advised by Dr. Mohammad Hossein Rohban (Sharif University of Technology)
+    company_url: 'http://sharif.ir/~rohban/'
     company_logo: org-gc
     location: Tehran, Iran
     date_start: '2020-10-01'
