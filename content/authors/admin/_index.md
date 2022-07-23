@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'fereshteh.forghani2012@gmail.com'
+  link: 'forghani@yorku.ca'
 - icon: github
   icon_pack: fab
   link: https://github.com/fforghani
@@ -63,7 +63,7 @@ social:
   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "fereshteh.forghani2012@gmail.com"
+email: "forghani@yorku.ca"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -73,7 +73,7 @@ My name is Fereshteh Forghani and I am a senior B.Sc. student at Sharif Universi
 
 I intend to widen my knowledge in these areas by learning more about their theoretical and mathematical side and by practical exploitation of these methods in real-life problems. My research goal is to introduce innovative approaches based on mathematical reasoning that solve practical problems in computer perception and motion. 
 
-{{< icon name="envelope" pack="fas" >}}My Email is "fereshteh.forghani2012" at "gmail.com". 
+{{< icon name="envelope" pack="fas" >}}My Email is "forghani" at "yorku.ca". 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
