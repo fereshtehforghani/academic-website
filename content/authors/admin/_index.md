@@ -21,13 +21,15 @@ interests:
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- Medical Image Analysis
 - Autonomous Driving
 - Artificial Intelligence
 
 # Education to show in About widget
 education:
   courses:
+  - course: MSc in Computer Science 
+    institution: York University
+    year: 2017-2022
   - course: BSc in Computer Engineering (GPA = 18.53/20)
     institution: Sharif University of Technology
     year: 2017-2022
