@@ -6,12 +6,12 @@ title: Fereshteh Forghani
 superuser: true
 
 # Role/position/tagline
-role: B.Sc. Student
+role: M.Sc. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Sharif University of Technology
-  url: http://www.sharif.ir/home
+- name: York University 
+  url: https://lassonde.yorku.ca/academics/computer-science
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
