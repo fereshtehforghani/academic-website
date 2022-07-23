@@ -34,17 +34,17 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2020-10-01"
-  description: 
-  organization: 
-  organization_url: 
+  description: ""
+  organization: Sharif University of Technology 
+  organization_url: https://en.sharif.edu/
   title: I started working at the Medical Imaging research group under the supervision of Prof. Mohammad Hossein Rohban.
   url: 
 - certificate_url: 
   date_end: ""
   date_start: "2021-03-01"
   description: ""
-  organization: 
-  organization_url:
+  organization: EPFL
+  organization_url: https://www.epfl.ch/en/
   title: I got accepted as a remote intern to Visual Intelligence for Transportation (VITA) Lab under supervision of Prof. Alexandre Alahi.
   url: ""
 - certificate_url: 
@@ -60,9 +60,9 @@ item:
   date_end: ""
   date_start: "2022-09-01"
   description: ""
-  organization: York University, Vector Institute
-  organization_url: https://cvil.eecs.yorku.ca/
-  title: I will be joining the the Computational Vision and Imaging Lab at York University (CVIL@York) and Vector institute.
+  organization: York University
+  organization_url: https://lassonde.yorku.ca/academics/computer-science
+  title: I will be joining the the [Computational Vision and Imaging Lab at York University (CVIL@York)](https://cvil.eecs.yorku.ca/) and [Vector Institute](https://vectorinstitute.ai/).
   url: ""
 
 design:
