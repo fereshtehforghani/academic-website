@@ -29,7 +29,7 @@ experience:
     location: Toronto, Canada
     date_start: '2022-06-01'
     date_end: ''
-    description: ''  
+    description: 'TBD'  
      
   - title: Remote Summer Intern
     company: Visual Intelligence for Transportation (VITA) Lab, École Polytechnique Fédérale de Lausanne (EPFL)
