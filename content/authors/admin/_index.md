@@ -47,7 +47,7 @@ social:
   link: 'forghani@yorku.ca'
 - icon: github
   icon_pack: fab
-  link: https://github.com/fforghani
+  link: https://github.com/fereshtehforghani
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/fereshteh-forghani-aa76b8173
@@ -69,9 +69,7 @@ email: "forghani@yorku.ca"
 highlight_name: false
 ---
 
-My name is Fereshteh Forghani and I am a senior B.Sc. student at Sharif University of Technology. My main interests are Machine Learning , Deep Learning, and their applications in Computer Vision and Medical Image Analysis. 
-
-I intend to widen my knowledge in these areas by learning more about their theoretical and mathematical side and by practical exploitation of these methods in real-life problems. My research goal is to introduce innovative approaches based on mathematical reasoning that solve practical problems in computer perception and motion. 
+My name is Fereshteh Forghani. I am a first-year Computer Science Master's student at York University under the supervision of [Dr. Marcus Brubaker](https://mbrubake.github.io/). I am interested in computer vision and deep learning. Specifically, I am interested in methods that can use unlabeled data in the learning process. This includes generative models and self-supervised learning methods. Previously, I did my Bachelor's at Sharif University of Technology, majoring in Computer Engineering. 
 
 {{< icon name="envelope" pack="fas" >}}My Email is "forghani" at "yorku.ca". 
 

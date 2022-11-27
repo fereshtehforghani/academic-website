@@ -45,24 +45,34 @@ item:
   description: ""
   organization: EPFL
   organization_url: https://www.epfl.ch/en/
-  title: I got accepted as a remote intern to Visual Intelligence for Transportation (VITA) Lab under supervision of Prof. Alexandre Alahi.
-  url: ""
-- certificate_url: 
-  date_end: ""
-  date_start: "2022-03-01"
-  description: ""
-  organization: 
-  organization_url:
-  title: I got admitted to some of the top and highly competetive universities in the world - Univesity of Southern Caliofornia (PhD in ECE), University of California Irvine (PhD in CS), University of British Columbia (MSc in BME) and York University (MSc in CS).
+  title: Accepted a remote internship offer at Visual Intelligence for Transportation (VITA) Lab under supervision of [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en).
   url: ""
 
 - certificate_url: 
   date_end: ""
-  date_start: "2022-09-01"
+  date_start: "2022-04-01"
   description: ""
   organization: York University
   organization_url: https://lassonde.yorku.ca/academics/computer-science
-  title: I will be joining the the [Computational Vision and Imaging Lab at York University (CVIL@York)](https://cvil.eecs.yorku.ca/) and [Vector Institute](https://vectorinstitute.ai/).
+  title: Accepted Offer of Admission to York University Computer Science Master's Program.
+  url: ""
+
+- certificate_url: 
+  date_end: ""
+  date_start: "2022-04-01"
+  description: ""
+  organization: York University
+  organization_url: https://lassonde.yorku.ca/academics/computer-science
+  title: Accepted [VISTA Masters scholarship](https://vista.info.yorku.ca/opportunities/masters-scholarships/) at York University.
+  url: ""
+
+- certificate_url: 
+  date_end: ""
+  date_start: "2022-04-01"
+  description: ""
+  organization: Vector Institute
+  organization_url: https://vectorinstitute.ai/
+  title: Accepted [Vector Scholarship in Artificial Intelligence](https://vectorinstitute.ai/scholarship/).
   url: ""
 
 design:

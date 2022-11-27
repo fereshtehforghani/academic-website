@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience: 
   - title: Research Assistant
-    company: Computational Vision and Imaging Lab at York University (CVIL@York)
-    company_url: 'https://cvil.eecs.yorku.ca/'
+    company: Computational Vision and Imaging Lab, Advised by Dr. Marcus Brubaker (Lassond School of Engineering, York University)
+    company_url: 'https://mbrubake.github.io/'
     company_logo: org-m
     location: Toronto, Canada
-    date_start: '2022-06-01'
+    date_start: '2022-09-01'
     date_end: ''
-    description: 'TBD'  
+    description: 'Currently reading papers about diffusion models, their foundations and theis applications.'  
      
   - title: Remote Summer Intern
     company: Visual Intelligence for Transportation (VITA) Lab, École Polytechnique Fédérale de Lausanne (EPFL)
